@@ -16,7 +16,7 @@ A curated resource for taxonomy research
 
 ### Survey
 
-1. [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances](http://aclweb.org/anthology/D17-1123) \[ACL 2017\]
+- [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances](http://aclweb.org/anthology/D17-1123) \[ACL 2017\]
 
 
 ### Concept Taxonomy Construction (Instance-based Taxonomy)
@@ -64,6 +64,10 @@ A curated resource for taxonomy research
 - [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://hanj.cs.illinois.edu/pdf/kdd18_czhang.pdf) \[KDD 2018\]
 
 ### Taxonomy Application
+
+- [Taxonomy-driven computation of product recommendations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.3304&rep=rep1&type=pdf) \[CIKM 2004\]
+
+- [Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior](https://arxiv.org/abs/1207.0136) \[VLDB 2012\] 
 
 - [Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3290972) \[WSDM 2019\] 
 
