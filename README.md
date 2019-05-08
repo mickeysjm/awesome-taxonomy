@@ -10,6 +10,16 @@ A curated resource for taxonomy research
 
 3. SemEval-2018 Task 9: Hypernym Discovery, [Home](https://competitions.codalab.org/competitions/17119), [Report](http://aclweb.org/anthology/S18-1115)
 
+4. UnsupervisedHypernymy, [Home](https://github.com/vered1986/UnsupervisedHypernymy), [EACL 2017 paper](https://www.aclweb.org/anthology/E17-1007), including 4 datasets:
+
+	* (Hypernymy Detection): EVAL, BLESS, LEDS (a.k.a Lenci/Benotto), Weeds
+
+5. HypernymySuite, [Home](https://github.com/facebookresearch/hypernymysuite), [ACL 2018 paper](https://www.aclweb.org/anthology/P18-2057), including (somewhat modified) datasets: 
+	
+	* (Hypernymy Detection): BLESS, LEDS, EVAL, SHWARTZ, WBLESS
+	* (Hypernymy Direction): BLESS, WBLESS, BIBLESS
+	* (Graded Entailment):  HyperLex
+
 
 ## Paper
 
@@ -17,6 +27,31 @@ A curated resource for taxonomy research
 ### Survey
 
 - [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances](http://aclweb.org/anthology/D17-1123) \[ACL 2017\]
+
+
+### Hypernymy  Discovery & Lexical Entailment
+
+- [Improving Hypernymy Detection with an Integrated Path-based and Distributional Method](https://www.aclweb.org/anthology/P16-1226) (HypeNet) \[ACL 2016\] 
+
+- [LexNET -- Integrated Path-based and Distributional Method for the Identification of Semantic Relations](https://www.aclweb.org/anthology/W16-5310) (LexNet) \[COLING 2016 CogALex-V\]
+
+- [Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment](https://aclweb.org/anthology/D16-1234) \[EMNLP 2016\]
+
+- [Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection](https://www.aclweb.org/anthology/E17-1007) \[EACL 2017\]
+
+- [Hierarchical Embeddings for Hypernymy Detection and Directionality](https://aclweb.org/anthology/papers/D/D17/D17-1022/) (HyperVec) \[EMNLP 2017\]
+
+- [Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection](https://www.aclweb.org/anthology/N18-1045) \[NAACL 2018\]
+
+- [Specialising Word Vectors for Lexical Entailment](https://www.aclweb.org/anthology/N18-1103) \[NAACL 2018\]
+
+- [Term Definitions Help Hypernymy Detection](https://www.aclweb.org/anthology/S18-2025) \[SEM 2018\]
+
+- [Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora](https://www.aclweb.org/anthology/P18-2057) \[ACL 2018\]
+
+- [Improving Hypernymy Prediction via Taxonomy Enhanced Adversarial Learning](https://chywang.github.io/papers/aaai2019.pdf) \[AAAI 2019\]
+
+- [A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction](https://chywang.github.io/papers/www2019.pdf) \[WWW 2019\]
 
 
 ### Concept Taxonomy Construction (Instance-based Taxonomy)
@@ -74,11 +109,11 @@ A curated resource for taxonomy research
 
 ### Joint Taxonomy Construction and Application
 
+- [Constructing Task-Specific Taxonomies for Document Collection Browsing](http://aclweb.org/anthology/D12-1117) \[EMNLP 2012\]
+
 - [Taxonomy Discovery for Personalized Recommendation](https://ai.google/research/pubs/pub42499) \[WSDM 2014\]
 
 - [On Interpretation of Network Embedding via Taxonomy Induction](http://www.public.asu.edu/~jundongl/paper/KDD18_Network_Embedding_Interpretation.pdf) \[KDD 2018\]
 
-- [Constructing Task-Specific Taxonomies for Document Collection Browsing](http://aclweb.org/anthology/D12-1117) \[EMNLP 2012\]
-
-
+- [TiFi: Taxonomy Induction for Fictional Domains](https://arxiv.org/pdf/1901.10263.pdf) \[WWW 2019\]
 
