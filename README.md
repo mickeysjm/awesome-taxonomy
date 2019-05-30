@@ -31,61 +31,40 @@ A curated resource for taxonomy research
 
 ### Hypernymy  Discovery & Lexical Entailment
 
+- [Learning Term Embeddings for Hypernymy Identification](https://www.ijcai.org/Proceedings/15/Papers/200.pdf) [IJCAI 2015]
 - [Improving Hypernymy Detection with an Integrated Path-based and Distributional Method](https://www.aclweb.org/anthology/P16-1226) (HypeNet) \[ACL 2016\] 
-
 - [LexNET -- Integrated Path-based and Distributional Method for the Identification of Semantic Relations](https://www.aclweb.org/anthology/W16-5310) (LexNet) \[COLING 2016 CogALex-V\]
-
+- [TAXI at SemEval-2016 Task 13: a Taxonomy Induction Method based on Lexico-Syntactic Patterns, Substrings and Focused Crawling](https://www.aclweb.org/anthology/S16-1206) [SemEval 2016]
 - [Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment](https://aclweb.org/anthology/D16-1234) \[EMNLP 2016\]
-
+- [Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network](https://www.aclweb.org/anthology/D16-1039) [EMNLP 2016]
 - [Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection](https://www.aclweb.org/anthology/E17-1007) \[EACL 2017\]
-
 - [Hierarchical Embeddings for Hypernymy Detection and Directionality](https://aclweb.org/anthology/papers/D/D17/D17-1022/) (HyperVec) \[EMNLP 2017\]
-
 - [Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection](https://www.aclweb.org/anthology/N18-1045) \[NAACL 2018\]
-
 - [Specialising Word Vectors for Lexical Entailment](https://www.aclweb.org/anthology/N18-1103) \[NAACL 2018\]
-
 - [Term Definitions Help Hypernymy Detection](https://www.aclweb.org/anthology/S18-2025) \[SEM 2018\]
-
 - [Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora](https://www.aclweb.org/anthology/P18-2057) \[ACL 2018\]
-
 - [Improving Hypernymy Prediction via Taxonomy Enhanced Adversarial Learning](https://chywang.github.io/papers/aaai2019.pdf) \[AAAI 2019\]
-
 - [A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction](https://chywang.github.io/papers/www2019.pdf) \[WWW 2019\]
 
 
 ### Concept Taxonomy Construction (Instance-based Taxonomy)
 
 - [Semantic Taxonomy Induction from Heterogenous Evidence](http://aclweb.org/anthology/P06-1101) \[ACL 2006\]
-
 - [Deriving a Large Scale Taxonomy from Wikipedia](https://pdfs.semanticscholar.org/c360/b473ae80b715c5b725c592b6ab04fd4ac430.pdf) \[AAAI 2007\]
-
 - [A Metric-based Framework for Automatic Taxonomy Induction](http://aclweb.org/anthology/P09-1031) \[ACL 2009\]
-
 - [A Semi-Supervised Method to Learn and Construct Taxonomies using the Web](http://aclweb.org/anthology/D10-1108) \[EMNLP 2010\]
-
 - [MENTA: Inducing Multilingual Taxonomies from Wikipedia](http://gerard.demelo.org/papers/demelo-menta-cikm2010.pdf) \[CIKM 2010\]
-
 - [A graph-based algorithm for inducing lexical taxonomies from scratch](https://www.ijcai.org/Proceedings/11/Papers/313.pdf) \[IJCAI 2011\]
-
 - [Probase: A probabilistic taxonomy for text understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf) \[SIGMOD 2012\]
-
+- [Learning Semantic Hierarchies via Word Embeddings](https://www.aclweb.org/anthology/P14-1113) [ACL 2014]
 - [Two Is Bigger (and Better) Than One -- the Wikipedia Bitaxonomy Project](http://aclweb.org/anthology/P14-1089) \[ACL 2014\]
-
 - [Structured Learning for Taxonomy Induction with Belief Propagation](http://aclweb.org/anthology/P14-1098) \[ACL 2014\]
-
 - [Taxonomy Construction Using Syntactic Contextual Evidence](http://aclweb.org/anthology/D14-1088) \[EMNLP 2014\]
-
 - [Incorporating Trustiness and Collective Synonym and Contrastive Evidence into Taxonomy Construction](http://aclweb.org/anthology/D15-1117) \[EMNLP 2015\]
-
 - [Learning Concept Taxonomies from Multi-modal Data](http://aclweb.org/anthology/P16-1169) \[ACL 2016\]
-
 - [Revisiting Taxonomy Induction over Wikipedia](http://www.aclweb.org/anthology/C16-1217) \[COLING 2016\]
-
 - [Taxonomy Induction using Hypernym Subsequences](https://arxiv.org/pdf/1704.07626.pdf) \[CIKM 2017\] 
-
 - [HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf) \[KDD 2018\]
-
 - [End-to-End Reinforcement Learning for Automatic Taxonomy Induction](http://aclweb.org/anthology/P18-1229) \[ACL 2018\]
 
 ### Topic Taxonomy Construction (Clustering-based Taxonomy)
