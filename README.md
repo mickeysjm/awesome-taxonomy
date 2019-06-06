@@ -61,6 +61,7 @@ A curated resource for taxonomy research
 - [Structured Learning for Taxonomy Induction with Belief Propagation](http://aclweb.org/anthology/P14-1098) \[ACL 2014\]
 - [Taxonomy Construction Using Syntactic Contextual Evidence](http://aclweb.org/anthology/D14-1088) \[EMNLP 2014\]
 - [Incorporating Trustiness and Collective Synonym and Contrastive Evidence into Taxonomy Construction](http://aclweb.org/anthology/D15-1117) \[EMNLP 2015\]
+- [Automatic Taxonomy Extraction from Bipartite Graphs](https://ieeexplore.ieee.org/document/7373326) [ICDM 2015]
 - [Learning Concept Taxonomies from Multi-modal Data](http://aclweb.org/anthology/P16-1169) \[ACL 2016\]
 - [Revisiting Taxonomy Induction over Wikipedia](http://www.aclweb.org/anthology/C16-1217) \[COLING 2016\]
 - [Taxonomy Induction using Hypernym Subsequences](https://arxiv.org/pdf/1704.07626.pdf) \[CIKM 2017\] 
@@ -70,12 +71,14 @@ A curated resource for taxonomy research
 ### Topic Taxonomy Construction (Clustering-based Taxonomy)
 
 - [Automatic Taxonomy Construction from Keywords](http://cgcad.thss.tsinghua.edu.cn/shixia/publications/brt/paper.pdf) \[KDD 2012\]
-
 - [A Phrase Mining Framework for Recursive Construction of a Topical Hierarchy](https://uofi.app.box.com/v/kdd13-cathy) \[KDD 2013\]
-
 - [Efficient Methods for Inferring Large Sparse Topic Hierarchies](http://aclweb.org/anthology/P15-1075) \[ACL 2015\]
-
 - [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://hanj.cs.illinois.edu/pdf/kdd18_czhang.pdf) \[KDD 2018\]
+
+### Taxonomy Expansion
+
+- [A graph-based approach for ontology population with named entities](https://dl.acm.org/citation.cfm?doid=2396761.2396807) \[CIKM 2012]
+- [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) \[NAACL 2015]
 
 ### Taxonomy Application
 
