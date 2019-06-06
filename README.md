@@ -78,6 +78,7 @@ A curated resource for taxonomy research
 ### Taxonomy Expansion
 
 - [A graph-based approach for ontology population with named entities](https://dl.acm.org/citation.cfm?doid=2396761.2396807) \[CIKM 2012]
+- [A Hierarchical Dirichlet Model for Taxonomy Expansion for Search Engines](http://yichang-cs.com/yahoo/www14_local.pdf) [WWW 2014]
 - [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) \[NAACL 2015]
 
 ### Taxonomy Application
