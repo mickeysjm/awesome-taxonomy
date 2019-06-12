@@ -8,13 +8,15 @@ A curated resource for taxonomy research
 
 2. SemEval-2016 Task 13: Taxonomy Extraction Evaluation (TExEval-2), [Home](http://alt.qcri.org/semeval2016/task13/), [Report](http://www.aclweb.org/anthology/S16-1168)
 
-3. SemEval-2018 Task 9: Hypernym Discovery, [Home](https://competitions.codalab.org/competitions/17119), [Report](http://aclweb.org/anthology/S18-1115)
+3. SemEval-2016 Task 14: Semantic Taxonomy Enrichment, [Home](http://alt.qcri.org/semeval2016/task14/), [Report](https://www.aclweb.org/anthology/S16-1169)
 
-4. UnsupervisedHypernymy, [Home](https://github.com/vered1986/UnsupervisedHypernymy), [EACL 2017 paper](https://www.aclweb.org/anthology/E17-1007), including 4 datasets:
+4. SemEval-2018 Task 9: Hypernym Discovery, [Home](https://competitions.codalab.org/competitions/17119), [Report](http://aclweb.org/anthology/S18-1115)
+
+5. UnsupervisedHypernymy, [Home](https://github.com/vered1986/UnsupervisedHypernymy), [EACL 2017 paper](https://www.aclweb.org/anthology/E17-1007), including 4 datasets:
 
 	* (Hypernymy Detection): EVAL, BLESS, LEDS (a.k.a Lenci/Benotto), Weeds
 
-5. HypernymySuite, [Home](https://github.com/facebookresearch/hypernymysuite), [ACL 2018 paper](https://www.aclweb.org/anthology/P18-2057), including (somewhat modified) datasets: 
+6. HypernymySuite, [Home](https://github.com/facebookresearch/hypernymysuite), [ACL 2018 paper](https://www.aclweb.org/anthology/P18-2057), including (somewhat modified) datasets: 
 	
 	* (Hypernymy Detection): BLESS, LEDS, EVAL, SHWARTZ, WBLESS
 	* (Hypernymy Direction): BLESS, WBLESS, BIBLESS
@@ -75,28 +77,23 @@ A curated resource for taxonomy research
 - [Efficient Methods for Inferring Large Sparse Topic Hierarchies](http://aclweb.org/anthology/P15-1075) \[ACL 2015\]
 - [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://hanj.cs.illinois.edu/pdf/kdd18_czhang.pdf) \[KDD 2018\]
 
-### Taxonomy Expansion
+### Taxonomy Expansion & Enrichment
 
-- [A graph-based approach for ontology population with named entities](https://dl.acm.org/citation.cfm?doid=2396761.2396807) \[CIKM 2012]
-- [A Hierarchical Dirichlet Model for Taxonomy Expansion for Search Engines](http://yichang-cs.com/yahoo/www14_local.pdf) [WWW 2014]
-- [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) \[NAACL 2015]
+- [A graph-based approach for ontology population with named entities](https://dl.acm.org/citation.cfm?doid=2396761.2396807) \[CIKM 2012\]
+- [A Hierarchical Dirichlet Model for Taxonomy Expansion for Search Engines](http://yichang-cs.com/yahoo/www14_local.pdf) \[WWW 2014\]
+- [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) \[NAACL 2015\]
+- [SemEval-2016 Task 14: Semantic Taxonomy Enrichment](https://www.aclweb.org/anthology/S16-1169) \[SemEval 2016\]
 
 ### Taxonomy Application
 
 - [Taxonomy-driven computation of product recommendations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.3304&rep=rep1&type=pdf) \[CIKM 2004\]
-
 - [Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior](https://arxiv.org/abs/1207.0136) \[VLDB 2012\] 
-
 - [Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3290972) \[WSDM 2019\] 
 
 
 ### Joint Taxonomy Construction and Application
 
 - [Constructing Task-Specific Taxonomies for Document Collection Browsing](http://aclweb.org/anthology/D12-1117) \[EMNLP 2012\]
-
 - [Taxonomy Discovery for Personalized Recommendation](https://ai.google/research/pubs/pub42499) \[WSDM 2014\]
-
 - [On Interpretation of Network Embedding via Taxonomy Induction](http://www.public.asu.edu/~jundongl/paper/KDD18_Network_Embedding_Interpretation.pdf) \[KDD 2018\]
-
 - [TiFi: Taxonomy Induction for Fictional Domains](https://arxiv.org/pdf/1901.10263.pdf) \[WWW 2019\]
-
