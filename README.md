@@ -69,6 +69,7 @@ A curated resource for taxonomy research
 - [Taxonomy Induction using Hypernym Subsequences](https://arxiv.org/pdf/1704.07626.pdf) \[CIKM 2017\] 
 - [HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf) \[KDD 2018\]
 - [End-to-End Reinforcement Learning for Automatic Taxonomy Induction](http://aclweb.org/anthology/P18-1229) \[ACL 2018\]
+- [Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings](https://arxiv.org/pdf/1902.00913.pdf) \[ACL 2019\]
 
 ### Topic Taxonomy Construction (Clustering-based Taxonomy)
 
@@ -83,6 +84,7 @@ A curated resource for taxonomy research
 - [A Hierarchical Dirichlet Model for Taxonomy Expansion for Search Engines](http://yichang-cs.com/yahoo/www14_local.pdf) \[WWW 2014\]
 - [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) \[NAACL 2015\]
 - [SemEval-2016 Task 14: Semantic Taxonomy Enrichment](https://www.aclweb.org/anthology/S16-1169) \[SemEval 2016\]
+- [Every child should have parents: a taxonomy refinement algorithm based on hyperbolic term embeddings](https://arxiv.org/pdf/1906.02002.pdf) \[ACL 2019\]
 
 ### Taxonomy Application
 
