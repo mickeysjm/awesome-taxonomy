@@ -67,6 +67,7 @@ A curated resource for taxonomy research
 - [Learning Concept Taxonomies from Multi-modal Data](http://aclweb.org/anthology/P16-1169) \[ACL 2016\]
 - [Revisiting Taxonomy Induction over Wikipedia](http://www.aclweb.org/anthology/C16-1217) \[COLING 2016\]
 - [Taxonomy Induction using Hypernym Subsequences](https://arxiv.org/pdf/1704.07626.pdf) \[CIKM 2017\] 
+- [Comparing Constraints for Taxonomic Organization](https://www.aclweb.org/anthology/N18-1030) \[NAACL 2018 \]
 - [HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf) \[KDD 2018\]
 - [End-to-End Reinforcement Learning for Automatic Taxonomy Induction](http://aclweb.org/anthology/P18-1229) \[ACL 2018\]
 - [Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings](https://arxiv.org/pdf/1902.00913.pdf) \[ACL 2019\]
@@ -91,6 +92,9 @@ A curated resource for taxonomy research
 - [Taxonomy-driven computation of product recommendations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.3304&rep=rep1&type=pdf) \[CIKM 2004\]
 - [Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior](https://arxiv.org/abs/1207.0136) \[VLDB 2012\] 
 - [Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3290972) \[WSDM 2019\] 
+- [A User-Centered Concept Mining System for Query and Document Understanding at Tencent 
+](https://arxiv.org/pdf/1905.08487.pdf) \[KDD 2019\]
+- [Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf) \[KDD 2019\]
 
 
 ### Joint Taxonomy Construction and Application
