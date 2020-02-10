@@ -100,6 +100,7 @@ A curated resource for taxonomy research
 - \[WWW 2014\] [A Hierarchical Dirichlet Model for Taxonomy Expansion for Search Engines](http://yichang-cs.com/yahoo/www14_local.pdf) 
 - \[NAACL 2015\] [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) 
 - \[SemEval 2016\] [SemEval-2016 Task 14: Semantic Taxonomy Enrichment](https://www.aclweb.org/anthology/S16-1169) 
+- \[SIGIR 2018\] [Enriching Taxonomies With Functional Domain Knowledge](https://dl.acm.org/doi/10.1145/3209978.3210000)
 - \[ACL 2019\] [Every child should have parents: a taxonomy refinement algorithm based on hyperbolic term embeddings](https://www.aclweb.org/anthology/P19-1474/) 
 	* Code: [https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings](https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings)
 - \[ACL 2019\] [Automatic Taxonomy Induction and Expansion](https://www.aclweb.org/anthology/D19-3005.pdf) 	
