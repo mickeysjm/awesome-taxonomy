@@ -101,7 +101,12 @@ A curated resource for taxonomy research
 - \[NAACL 2015\] [Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms](https://www.aclweb.org/anthology/N15-1169) 
 - \[SemEval 2016\] [SemEval-2016 Task 14: Semantic Taxonomy Enrichment](https://www.aclweb.org/anthology/S16-1169) 
 - \[ACL 2019\] [Every child should have parents: a taxonomy refinement algorithm based on hyperbolic term embeddings](https://www.aclweb.org/anthology/P19-1474/) 
-	* Code [https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings](https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings)
+	* Code: [https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings](https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings)
+- \[ACL 2019\] [Automatic Taxonomy Induction and Expansion](https://www.aclweb.org/anthology/D19-3005.pdf) 	
+- \[WWW 2020\] [Expanding Taxonomies with Implicit Edge Semantics](http://emaadmanzoor.com/papers/20-www-arborist.pdf)
+- \[WWW 2020\] [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://arxiv.org/abs/2001.09522)
+	* Code: [https://github.com/mickeystroller/TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
+	
 
 ### Taxonomy Application
 
