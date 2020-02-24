@@ -58,6 +58,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/chywang/FOP](https://github.com/chywang/FOP)
 - \[CIKM 2019\] [Discovering Hypernymy in Text-Rich Heterogeneous Information Network by Exploiting Context Granularity](https://arxiv.org/pdf/1909.01584.pdf)
 	* Code: [https://github.com/ysyushi/HyperMine](https://github.com/ysyushi/HyperMine)
+- \[AAAI 2020\] [Hypernym Detection Using Strict Partial Order Networks](https://arxiv.org/pdf/1909.10572.pdf)
 
 
 ### Concept Taxonomy Construction (Instance-based Taxonomy)
