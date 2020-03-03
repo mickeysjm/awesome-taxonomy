@@ -81,6 +81,7 @@ A curated resource for taxonomy research
 - \[COLING 2016\] [Revisiting Taxonomy Induction over Wikipedia](http://www.aclweb.org/anthology/C16-1217) 
 - \[CIKM 2017\] [Taxonomy Induction using Hypernym Subsequences](https://arxiv.org/pdf/1704.07626.pdf) 
 - \[NAACL 2018 \] [Comparing Constraints for Taxonomic Organization](https://www.aclweb.org/anthology/N18-1030) 
+	* Code: [https://github.com/acocos/tax-org](https://github.com/acocos/tax-org)
 - \[KDD 2018\] [HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf) 
 	* Code: [https://github.com/mickeystroller/HiExpan](https://github.com/mickeystroller/HiExpan)
 - \[ACL 2018\] [End-to-End Reinforcement Learning for Automatic Taxonomy Induction](http://aclweb.org/anthology/P18-1229) 
