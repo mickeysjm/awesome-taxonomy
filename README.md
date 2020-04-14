@@ -107,6 +107,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings](https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings)
 - \[ACL 2019\] [Automatic Taxonomy Induction and Expansion](https://www.aclweb.org/anthology/D19-3005.pdf) 	
 - \[WWW 2020\] [Expanding Taxonomies with Implicit Edge Semantics](http://emaadmanzoor.com/papers/20-www-arborist.pdf)
+	* Website w/ code, slides, video, etc.: [https://cmuarborist.github.io/](https://cmuarborist.github.io/)
 - \[WWW 2020\] [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://arxiv.org/abs/2001.09522)
 	* Code: [https://github.com/mickeystroller/TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
 	
