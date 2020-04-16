@@ -95,6 +95,8 @@ A curated resource for taxonomy research
 - \[ACL 2015\] [Efficient Methods for Inferring Large Sparse Topic Hierarchies](http://aclweb.org/anthology/P15-1075) 
 - \[KDD 2018\] [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://hanj.cs.illinois.edu/pdf/kdd18_czhang.pdf) 
 	* Code: [https://github.com/franticnerd/taxogen](https://github.com/franticnerd/taxogen)
+- \[WWW 2020\] [NetTaxo: Automated Topic Taxonomy Construction from Text-Rich Network](http://hanj.cs.illinois.edu/pdf/www20_jshang.pdf)
+
 
 ### Taxonomy Expansion & Enrichment
 
