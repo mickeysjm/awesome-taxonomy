@@ -88,6 +88,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/morningmoni/TaxoRL](https://github.com/morningmoni/TaxoRL)
 - \[ACL 2019\] [Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings](https://arxiv.org/pdf/1902.00913.pdf) 
 
+
 ### Topic Taxonomy Construction (Clustering-based Taxonomy)
 
 - \[KDD 2012\] [Automatic Taxonomy Construction from Keywords](http://cgcad.thss.tsinghua.edu.cn/shixia/publications/brt/paper.pdf) 
@@ -127,6 +128,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
 - \[CIKM 2019\] [STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/lp0249-gaoA.pdf)
 	* Code: [https://github.com/jygao97/STAR](https://github.com/jygao97/STAR)
+- \[ACL 2020\] [TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories](https://arxiv.org/pdf/2004.13852.pdf)
 
 
 ### Joint Taxonomy Construction and Application
