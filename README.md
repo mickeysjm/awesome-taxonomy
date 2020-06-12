@@ -59,6 +59,8 @@ A curated resource for taxonomy research
 - \[CIKM 2019\] [Discovering Hypernymy in Text-Rich Heterogeneous Information Network by Exploiting Context Granularity](https://arxiv.org/pdf/1909.01584.pdf)
 	* Code: [https://github.com/ysyushi/HyperMine](https://github.com/ysyushi/HyperMine)
 - \[AAAI 2020\] [Hypernym Detection Using Strict Partial Order Networks](https://arxiv.org/pdf/1909.10572.pdf)
+- \[ACL 2020\] [BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection](https://chywang.github.io/papers/acl2020.pdf)
+- \[ACL 2020\] [Hypernymy Detection for Low-Resource Languages via Meta Learning]()
 
 
 ### Concept Taxonomy Construction (Instance-based Taxonomy)
@@ -87,7 +89,8 @@ A curated resource for taxonomy research
 - \[ACL 2018\] [End-to-End Reinforcement Learning for Automatic Taxonomy Induction](http://aclweb.org/anthology/P18-1229) 
 	* Code: [https://github.com/morningmoni/TaxoRL](https://github.com/morningmoni/TaxoRL)
 - \[ACL 2019\] [Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings](https://arxiv.org/pdf/1902.00913.pdf) 
-
+- \[ACL 2020\] [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer]()
+	* Code: [https://github.com/IBM/gnn-taxo-construction](https://github.com/IBM/gnn-taxo-construction)
 
 ### Topic Taxonomy Construction (Clustering-based Taxonomy)
 
@@ -109,6 +112,7 @@ A curated resource for taxonomy research
 - \[ACL 2019\] [Every child should have parents: a taxonomy refinement algorithm based on hyperbolic term embeddings](https://www.aclweb.org/anthology/P19-1474/) 
 	* Code: [https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings](https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings)
 - \[ACL 2019\] [Automatic Taxonomy Induction and Expansion](https://www.aclweb.org/anthology/D19-3005.pdf) 	
+- \[AKBC 2019\] [Synonym Expansion for Large Shopping Taxonomies](https://openreview.net/pdf?id=rJx2g-qaTm)
 - \[WWW 2020\] [Expanding Taxonomies with Implicit Edge Semantics](http://emaadmanzoor.com/papers/20-www-arborist.pdf)
 	* Website w/ code, slides, video, etc.: [https://cmuarborist.github.io/](https://cmuarborist.github.io/)
 - \[WWW 2020\] [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://arxiv.org/abs/2001.09522)
