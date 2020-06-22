@@ -20,7 +20,7 @@ A curated resource for taxonomy research
 	
 	* (Hypernymy Detection): BLESS, LEDS, EVAL, SHWARTZ, WBLESS
 	* (Hypernymy Direction): BLESS, WBLESS, BIBLESS
-	* (Graded Entailment):  HyperLex
+	* (Graded Entailment): HyperLex
 
 
 ## Paper
@@ -117,7 +117,9 @@ A curated resource for taxonomy research
 	* Website w/ code, slides, video, etc.: [https://cmuarborist.github.io/](https://cmuarborist.github.io/)
 - \[WWW 2020\] [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://arxiv.org/abs/2001.09522)
 	* Code: [https://github.com/mickeystroller/TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
-	
+- \[KDD 2020\] [STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths](https://arxiv.org/pdf/2006.10217.pdf)
+	* Code: [https://github.com/yueyu1030/STEAM](https://github.com/yueyu1030/STEAM)
+
 
 ### Taxonomy Application
 
@@ -125,8 +127,7 @@ A curated resource for taxonomy research
 - \[VLDB 2012\] [Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior](https://arxiv.org/abs/1207.0136) 
 - \[WSDM 2019\] [Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3290972)
 	* Code: [https://github.com/RUCDM/TMRN](https://github.com/RUCDM/TMRN)
-- \[KDD 2019\] [A User-Centered Concept Mining System for Query and Document Understanding at Tencent 
-](https://arxiv.org/pdf/1905.08487.pdf) 
+- \[KDD 2019\] [A User-Centered Concept Mining System for Query and Document Understanding at Tencent ](https://arxiv.org/pdf/1905.08487.pdf)
 	* Code: [https://github.com/BangLiu/ConcepT](https://github.com/BangLiu/ConcepT)
 - \[KDD 2019\] [Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf) 
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
