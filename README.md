@@ -119,7 +119,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/mickeystroller/TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
 - \[KDD 2020\] [STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths](https://arxiv.org/pdf/2006.10217.pdf)
 	* Code: [https://github.com/yueyu1030/STEAM](https://github.com/yueyu1030/STEAM)
-* \[KDD 2020\] [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://arxiv.org/abs/2006.10276)
+- \[KDD 2020\] [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://arxiv.org/abs/2006.10276)
 
 
 ### Taxonomy Application
