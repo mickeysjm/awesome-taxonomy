@@ -100,6 +100,8 @@ A curated resource for taxonomy research
 - \[KDD 2018\] [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://hanj.cs.illinois.edu/pdf/kdd18_czhang.pdf) 
 	* Code: [https://github.com/franticnerd/taxogen](https://github.com/franticnerd/taxogen)
 - \[WWW 2020\] [NetTaxo: Automated Topic Taxonomy Construction from Text-Rich Network](http://hanj.cs.illinois.edu/pdf/www20_jshang.pdf)
+- \[KDD 2020\] [CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring](https://dl.acm.org/doi/10.1145/3394486.3403244)
+	* Code: [https://github.com/teapot123/CoRel](https://github.com/teapot123/CoRel)
 
 
 ### Taxonomy Expansion & Enrichment
