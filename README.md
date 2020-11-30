@@ -60,7 +60,9 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/ysyushi/HyperMine](https://github.com/ysyushi/HyperMine)
 - \[AAAI 2020\] [Hypernym Detection Using Strict Partial Order Networks](https://arxiv.org/pdf/1909.10572.pdf)
 - \[ACL 2020\] [BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection](https://chywang.github.io/papers/acl2020.pdf)
-- \[ACL 2020\] [Hypernymy Detection for Low-Resource Languages via Meta Learning]()
+- \[ACL 2020\] [Hypernymy Detection for Low-Resource Languages via Meta Learning](https://www.aclweb.org/anthology/2020.acl-main.336.pdf)
+- \[EMNLP 2020\] [When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models](https://arxiv.org/pdf/2010.04941.pdf)
+	* Code: [https://github.com/HKUST-KnowComp/ComHyper](https://github.com/HKUST-KnowComp/ComHyper)
 
 
 ### Concept Taxonomy Construction (Instance-based Taxonomy)
