@@ -147,3 +147,6 @@ A curated resource for taxonomy research
 - \[WSDM 2014\] [Taxonomy Discovery for Personalized Recommendation](https://ai.google/research/pubs/pub42499) 
 - \[KDD 2018\] [On Interpretation of Network Embedding via Taxonomy Induction](http://www.public.asu.edu/~jundongl/paper/KDD18_Network_Embedding_Interpretation.pdf) 
 - \[WWW 2019\] [TiFi: Taxonomy Induction for Fictional Domains](https://arxiv.org/pdf/1901.10263.pdf) 
+- \[SIGMOD 2020\] [GIANT: Scalable Creation of a Web-scale Ontology](https://arxiv.org/pdf/2004.02118.pdf)
+	* Code: [https://github.com/BangLiu/GIANT](https://github.com/BangLiu/GIANT)
+
