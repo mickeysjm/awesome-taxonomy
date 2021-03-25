@@ -2,7 +2,7 @@
 A curated resource for taxonomy research
 
 
-## Datasets / Shared Tasks
+# Datasets / Shared Tasks
 
 1. SemEval-2015 Task 17: Taxonomy Extraction Evaluation (TExEval-1), [Home](http://alt.qcri.org/semeval2015/task17/), [Report](http://aclweb.org/anthology/S15-2151)
 
@@ -23,15 +23,15 @@ A curated resource for taxonomy research
 	* (Graded Entailment): HyperLex
 
 
-## Paper
+# Paper
 
 
-### Survey & Tutorials
+## Survey & Tutorials
 
 - \[ACL 2017\] [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances](http://aclweb.org/anthology/D17-1123) 
 
 
-### Hypernymy Discovery & Lexical Entailment
+## Hypernymy Discovery & Lexical Entailment
 
 - \[IJCAI 2015\] [Learning Term Embeddings for Hypernymy Identification](https://www.ijcai.org/Proceedings/15/Papers/200.pdf) 
 - \[ACL 2016\] [Improving Hypernymy Detection with an Integrated Path-based and Distributional Method](https://www.aclweb.org/anthology/P16-1226) (HypeNet) 
@@ -65,7 +65,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/HKUST-KnowComp/ComHyper](https://github.com/HKUST-KnowComp/ComHyper)
 
 
-### Concept Taxonomy Construction (Instance-based Taxonomy)
+## Concept Taxonomy Construction (Instance-based Taxonomy)
 
 - \[ACL 2006\] [Semantic Taxonomy Induction from Heterogenous Evidence](http://aclweb.org/anthology/P06-1101) 
 - \[AAAI 2007\] [Deriving a Large Scale Taxonomy from Wikipedia](https://pdfs.semanticscholar.org/c360/b473ae80b715c5b725c592b6ab04fd4ac430.pdf) 
@@ -94,7 +94,7 @@ A curated resource for taxonomy research
 - \[ACL 2020\] [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer]()
 	* Code: [https://github.com/IBM/gnn-taxo-construction](https://github.com/IBM/gnn-taxo-construction)
 
-### Topic Taxonomy Construction (Clustering-based Taxonomy)
+## Topic Taxonomy Construction (Clustering-based Taxonomy)
 
 - \[KDD 2012\] [Automatic Taxonomy Construction from Keywords](http://cgcad.thss.tsinghua.edu.cn/shixia/publications/brt/paper.pdf) 
 - \[KDD 2013\] [A Phrase Mining Framework for Recursive Construction of a Topical Hierarchy](https://uofi.app.box.com/v/kdd13-cathy) 
@@ -106,7 +106,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/teapot123/CoRel](https://github.com/teapot123/CoRel)
 
 
-### Taxonomy Expansion & Enrichment
+## Taxonomy Expansion & Enrichment
 
 - \[CIKM 2012\] [A graph-based approach for ontology population with named entities](https://dl.acm.org/citation.cfm?doid=2396761.2396807) 
 - \[WWW 2014\] [A Hierarchical Dirichlet Model for Taxonomy Expansion for Search Engines](http://yichang-cs.com/yahoo/www14_local.pdf) 
@@ -126,26 +126,44 @@ A curated resource for taxonomy research
 - \[KDD 2020\] [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://arxiv.org/abs/2006.10276)
 
 
-### Taxonomy Application
+## Taxonomy Application
+
+### Help Text Understanding and Representation Learning
+
+- \[SIGMOD 2012\] [Probase: A probabilistic taxonomy for text understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf) 
+- \[KDD 2019\] [Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf)
+	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
+
+### Help Network Embedding
+
+- \[KDD 2018\] [Hierarchical Taxonomy Aware Network Embedding](http://pengcui.thumedialab.com/papers/NE-Hierarchical.pdf)
+- \[KDD 2018\] [On Interpretation of Network Embedding via Taxonomy Induction](http://www.public.asu.edu/~jundongl/paper/KDD18_Network_Embedding_Interpretation.pdf) 
+	* Code: [https://github.com/ninghaohello/UnderstandingNetworkEmbedding](https://github.com/ninghaohello/UnderstandingNetworkEmbedding)
+- \[ICDM 2020\] [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://jiyang3.web.engr.illinois.edu/files/taxogan.pdf)
+	* Code: [https://github.com/JieyuZ2/TaxoGAN](https://github.com/JieyuZ2/TaxoGAN)
+
+
+### Improve Recommendadtion
 
 - \[CIKM 2004\] [Taxonomy-driven computation of product recommendations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.3304&rep=rep1&type=pdf) 
 - \[VLDB 2012\] [Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior](https://arxiv.org/abs/1207.0136) 
+- \[WSDM 2014\] [Taxonomy Discovery for Personalized Recommendation](https://ai.google/research/pubs/pub42499) 
 - \[WSDM 2019\] [Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3290972)
 	* Code: [https://github.com/RUCDM/TMRN](https://github.com/RUCDM/TMRN)
 - \[KDD 2019\] [A User-Centered Concept Mining System for Query and Document Understanding at Tencent ](https://arxiv.org/pdf/1905.08487.pdf)
 	* Code: [https://github.com/BangLiu/ConcepT](https://github.com/BangLiu/ConcepT)
-- \[KDD 2019\] [Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf) 
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
 - \[CIKM 2019\] [STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/lp0249-gaoA.pdf)
 	* Code: [https://github.com/jygao97/STAR](https://github.com/jygao97/STAR)
+
+### Improve Information Extraction
+
 - \[ACL 2020\] [TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories](https://arxiv.org/pdf/2004.13852.pdf)
 
 
-### Joint Taxonomy Construction and Application
+## Joint Taxonomy Construction and Application
 
 - \[EMNLP 2012\] [Constructing Task-Specific Taxonomies for Document Collection Browsing](http://aclweb.org/anthology/D12-1117) 
-- \[WSDM 2014\] [Taxonomy Discovery for Personalized Recommendation](https://ai.google/research/pubs/pub42499) 
-- \[KDD 2018\] [On Interpretation of Network Embedding via Taxonomy Induction](http://www.public.asu.edu/~jundongl/paper/KDD18_Network_Embedding_Interpretation.pdf) 
 - \[WWW 2019\] [TiFi: Taxonomy Induction for Fictional Domains](https://arxiv.org/pdf/1901.10263.pdf) 
 - \[SIGMOD 2020\] [GIANT: Scalable Creation of a Web-scale Ontology](https://arxiv.org/pdf/2004.02118.pdf)
 	* Code: [https://github.com/BangLiu/GIANT](https://github.com/BangLiu/GIANT)
