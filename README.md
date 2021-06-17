@@ -93,6 +93,8 @@ A curated resource for taxonomy research
 - \[ACL 2019\] [Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings](https://arxiv.org/pdf/1902.00913.pdf) 
 - \[ACL 2020\] [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer]()
 	* Code: [https://github.com/IBM/gnn-taxo-construction](https://github.com/IBM/gnn-taxo-construction)
+- \[NAACL 2021\] [Constructing Taxonomies from Pretrained Language Models](https://www.aclweb.org/anthology/2021.naacl-main.373.pdf)
+	* Code: [https://github.com/cchen23/ctp](https://github.com/cchen23/ctp)
 
 ## Topic Taxonomy Construction (Clustering-based Taxonomy)
 
@@ -124,6 +126,9 @@ A curated resource for taxonomy research
 - \[KDD 2020\] [STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths](https://arxiv.org/pdf/2006.10217.pdf)
 	* Code: [https://github.com/yueyu1030/STEAM](https://github.com/yueyu1030/STEAM)
 - \[KDD 2020\] [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://arxiv.org/abs/2006.10276)
+- \[WWW-SSL 2020\] [Who Should Go First? A Self-Supervised Concept Sorting Model for Improving Taxonomy Expansion](https://arxiv.org/pdf/2104.03682.pdf)
+- \[KDD 2021\] [Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations](https://arxiv.org/pdf/2106.02974.pdf)
+	* Code: [https://github.com/QingkaiZeng/GenTaxo](https://github.com/QingkaiZeng/GenTaxo)
 
 
 ## Taxonomy Application
