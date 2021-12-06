@@ -63,6 +63,9 @@ A curated resource for taxonomy research
 - \[ACL 2020\] [Hypernymy Detection for Low-Resource Languages via Meta Learning](https://www.aclweb.org/anthology/2020.acl-main.336.pdf)
 - \[EMNLP 2020\] [When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models](https://arxiv.org/pdf/2010.04941.pdf)
 	* Code: [https://github.com/HKUST-KnowComp/ComHyper](https://github.com/HKUST-KnowComp/ComHyper)
+- \[ACL 2021 Findings\] [Hypernym Discovery via a Recurrent Mapping Model](https://aclanthology.org/2021.findings-acl.257.pdf)
+- \[ACL 2021 Findings\] [More than just Frequency? Demasking Unsupervised Hypernymy Prediction Method](https://arxiv.org/pdf/2106.00055.pdf)
+	* Code: [https://github.com/Thommy96/hyp-freq-comp](https://github.com/Thommy96/hyp-freq-comp)
 
 
 ## Concept Taxonomy Construction (Instance-based Taxonomy)
@@ -137,13 +140,15 @@ A curated resource for taxonomy research
 - \[EMNLP 2021\] [Low-resource Taxonomy Enrichment with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.217/)
 - \[EMNLP Findings 2021\] [HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning](https://arxiv.org/pdf/2109.10500.pdf)
 
-## Taxonomy Application
+## Taxonomy Applications
 
 ### Help Text Understanding and Representation Learning
 
 - \[SIGMOD 2012\] [Probase: A probabilistic taxonomy for text understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf) 
 - \[KDD 2019\] [Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf)
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
+- \[AKBC 2021\] [Manifold Alignment across Geometric Spaces for Knowledge Base Representation Learning](https://openreview.net/pdf?id=TPymTKJR-Pi)
+	* Code: [https://github.com/HKUST-KnowComp/GeoAlign](https://github.com/HKUST-KnowComp/GeoAlign)
 
 ### Help Network Embedding
 
@@ -154,7 +159,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/JieyuZ2/TaxoGAN](https://github.com/JieyuZ2/TaxoGAN)
 
 
-### Improve Recommendadtion
+### Improve Recommender System
 
 - \[CIKM 2004\] [Taxonomy-driven computation of product recommendations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.3304&rep=rep1&type=pdf) 
 - \[VLDB 2012\] [Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior](https://arxiv.org/abs/1207.0136) 
@@ -170,6 +175,12 @@ A curated resource for taxonomy research
 ### Improve Information Extraction
 
 - \[ACL 2020\] [TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories](https://arxiv.org/pdf/2004.13852.pdf)
+- \[ACL 2021\] [OntoED: Low-resource Event Detection with Ontology Embedding](https://arxiv.org/pdf/2105.10922.pdf)
+	* Code: [https://github.com/231sm/Reasoning_In_EE](https://github.com/231sm/Reasoning_In_EE)
+- \[ACL 2021\] [OntoEA: Ontology-guided Entity Alignment via Joint Knowledge Graph Embedding](https://arxiv.org/pdf/2105.07688.pdf)
+	* Code: [https://github.com/ZihengZZH/OntoEA](https://github.com/ZihengZZH/OntoEA)
+- \[EMNLP 2021\] [ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision](https://aclanthology.org/2021.emnlp-main.424.pdf)
+	* Code: [https://github.com/xuanwang91/ChemNER](https://github.com/xuanwang91/ChemNER)
 
 
 ## Joint Taxonomy Construction and Application
