@@ -30,6 +30,9 @@ A curated resource for taxonomy research
 
 - \[ACL 2017\] [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances](http://aclweb.org/anthology/D17-1123) 
 
+- \[ICDM 2021\] [Automated Taxonomy Discovery and Exploration](https://jmshen1994.github.io/resources/icdm21_tutorial.pdf)
+	* Slides: [https://drive.google.com/drive/folders/1e_wb0MWydNPSEtZGD6g8ZLM-5Q_OtQdh](https://drive.google.com/drive/folders/1e_wb0MWydNPSEtZGD6g8ZLM-5Q_OtQdh) 
+
 
 ## Hypernymy Discovery & Lexical Entailment
 
