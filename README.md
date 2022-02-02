@@ -132,7 +132,7 @@ A curated resource for taxonomy research
 - \[KDD 2020\] [STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths](https://arxiv.org/pdf/2006.10217.pdf)
 	* Code: [https://github.com/yueyu1030/STEAM](https://github.com/yueyu1030/STEAM)
 - \[KDD 2020\] [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://arxiv.org/abs/2006.10276)
-- \[WWW-SSL 2020\] [Who Should Go First? A Self-Supervised Concept Sorting Model for Improving Taxonomy Expansion](https://arxiv.org/pdf/2104.03682.pdf)
+- \[WWW-SSL 2021\] [Who Should Go First? A Self-Supervised Concept Sorting Model for Improving Taxonomy Expansion](https://arxiv.org/pdf/2104.03682.pdf)
 - \[AAAI 2021\] [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/pdf/2101.01896.pdf)
 	* Code: [https://github.com/JieyuZ2/TMN](https://github.com/JieyuZ2/TMN)
 - \[KDD 2021\] [Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations](https://arxiv.org/pdf/2106.02974.pdf)
@@ -142,6 +142,8 @@ A curated resource for taxonomy research
 - \[EMNLP 2021\] [TEMP: Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths](https://aclanthology.org/2021.emnlp-main.313)
 - \[EMNLP 2021\] [Low-resource Taxonomy Enrichment with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.217/)
 - \[EMNLP Findings 2021\] [HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning](https://arxiv.org/pdf/2109.10500.pdf)
+- \[WWW 2022\] [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations]()
+- \[WWW 2022\] [TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters](https://arxiv.org/pdf/2201.06771.pdf)
 
 ## Taxonomy Applications
 
