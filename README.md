@@ -144,6 +144,8 @@ A curated resource for taxonomy research
 - \[EMNLP Findings 2021\] [HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning](https://arxiv.org/pdf/2109.10500.pdf)
 - \[WWW 2022\] [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations]()
 - \[WWW 2022\] [TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters](https://arxiv.org/pdf/2201.06771.pdf)
+- \[ICDE 2022\] [Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision](https://arxiv.org/pdf/2203.14921.pdf)
+	* Code: [https://github.com/AdaCheng/Product_Taxonomy_Expansion](https://github.com/AdaCheng/Product_Taxonomy_Expansion)
 
 ## Taxonomy Applications
 
@@ -174,8 +176,10 @@ A curated resource for taxonomy research
 - \[KDD 2019\] [A User-Centered Concept Mining System for Query and Document Understanding at Tencent ](https://arxiv.org/pdf/1905.08487.pdf)
 	* Code: [https://github.com/BangLiu/ConcepT](https://github.com/BangLiu/ConcepT)
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
-- \[CIKM 2019\] [STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/lp0249-gaoA.pdf)
+- \[CIKM 2019\] [STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/lp0249-gaoA.pdf)
 	* Code: [https://github.com/jygao97/STAR](https://github.com/jygao97/STAR)
+- \[ICDE 2022\] [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space (https://www.cs.emory.edu/~jyang71/files/taxorec.pdf)
+	* Code: [https://github.com/Melinda315/TaxoRec)
 
 ### Improve Information Extraction
 
