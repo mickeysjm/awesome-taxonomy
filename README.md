@@ -142,7 +142,8 @@ A curated resource for taxonomy research
 - \[EMNLP 2021\] [TEMP: Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths](https://aclanthology.org/2021.emnlp-main.313)
 - \[EMNLP 2021\] [Low-resource Taxonomy Enrichment with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.217/)
 - \[EMNLP Findings 2021\] [HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning](https://arxiv.org/pdf/2109.10500.pdf)
-- \[WWW 2022\] [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations]()
+- \[WWW 2022\] [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/pdf/2202.04887.pdf)
+- \[WWW 2022\] [QEN: Applicable Taxonomy Completion via Evaluating Full Taxonomic Relations]()
 - \[WWW 2022\] [TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters](https://arxiv.org/pdf/2201.06771.pdf)
 - \[ICDE 2022\] [Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision](https://arxiv.org/pdf/2203.14921.pdf)
 	* Code: [https://github.com/AdaCheng/Product_Taxonomy_Expansion](https://github.com/AdaCheng/Product_Taxonomy_Expansion)
@@ -190,6 +191,8 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/ZihengZZH/OntoEA](https://github.com/ZihengZZH/OntoEA)
 - \[EMNLP 2021\] [ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision](https://aclanthology.org/2021.emnlp-main.424.pdf)
 	* Code: [https://github.com/xuanwang91/ChemNER](https://github.com/xuanwang91/ChemNER)
+- \[WWW 2022\] [Ontology-enhanced Prompt-tuning for Few-shot Learning](https://arxiv.org/pdf/2201.11332.pdf)
+
 
 
 ## Joint Taxonomy Construction and Application
@@ -199,3 +202,8 @@ A curated resource for taxonomy research
 - \[SIGMOD 2020\] [GIANT: Scalable Creation of a Web-scale Ontology](https://arxiv.org/pdf/2004.02118.pdf)
 	* Code: [https://github.com/BangLiu/GIANT](https://github.com/BangLiu/GIANT)
 
+## Misc
+
+- \[ACL 2022\] [CogTaskonomy: Cognitively Inspired Task Taxonomy Is Beneficial to Transfer Learning in NLP]()
+- \[ACL 2022\] [Better Language Model with Hypernym Class Prediction ](https://arxiv.org/pdf/2203.10692.pdf)
+	* Code: [https://github.com/richardbaihe/robustLM](https://github.com/richardbaihe/robustLM)
