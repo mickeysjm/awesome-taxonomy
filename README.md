@@ -26,12 +26,14 @@ A curated resource for taxonomy research
 # Paper
 
 
-## Survey & Tutorials
+## Book & Survey & Tutorials
 
 - \[ACL 2017\] [A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances](http://aclweb.org/anthology/D17-1123) 
 
-- \[ICDM 2021\] [Automated Taxonomy Discovery and Exploration](https://jmshen1994.github.io/resources/icdm21_tutorial.pdf)
+- \[ICDM 2021\] [Automated Taxonomy Discovery and Exploration](https://mickeysjm.github.io/resources/icdm21_tutorial.pdf)
 	* Slides: [https://drive.google.com/drive/folders/1e_wb0MWydNPSEtZGD6g8ZLM-5Q_OtQdh](https://drive.google.com/drive/folders/1e_wb0MWydNPSEtZGD6g8ZLM-5Q_OtQdh) 
+
+- \[Springer Nature 2022\] [Automated Taxonomy Discovery and Exploration](https://link.springer.com/book/10.1007/978-3-031-11405-2)
 
 
 ## Hypernymy Discovery & Lexical Entailment
@@ -45,7 +47,7 @@ A curated resource for taxonomy research
 - \[EMNLP 2016\] [Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment](https://aclweb.org/anthology/D16-1234) 
 	* Code: [https://github.com/stephenroller/emnlp2016](https://github.com/stephenroller/emnlp2016)
 - \[EMNLP 2016\] [Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network](https://www.aclweb.org/anthology/D16-1039) 
-- \[EACL 2017\] [Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection](https://www.aclweb.org/anthology/E17-1007) 
+- \[EACL 2017\] [Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection](https://www.aclweb.org/anthology/E17-1007)
 	* Code: [https://github.com/vered1986/UnsupervisedHypernymy](https://github.com/vered1986/UnsupervisedHypernymy)
 - \[EMNLP 2017\] [Hierarchical Embeddings for Hypernymy Detection and Directionality](https://aclweb.org/anthology/papers/D/D17/D17-1022/) (HyperVec)
 	* Code: [https://github.com/nguyenkh/HyperVec](https://github.com/nguyenkh/HyperVec)
@@ -143,10 +145,14 @@ A curated resource for taxonomy research
 - \[EMNLP 2021\] [Low-resource Taxonomy Enrichment with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.217/)
 - \[EMNLP Findings 2021\] [HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning](https://arxiv.org/pdf/2109.10500.pdf)
 - \[WWW 2022\] [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/pdf/2202.04887.pdf)
-- \[WWW 2022\] [QEN: Applicable Taxonomy Completion via Evaluating Full Taxonomic Relations]()
+- \[WWW 2022\] [QEN: Applicable Taxonomy Completion via Evaluating Full Taxonomic Relations](https://dl.acm.org/doi/abs/10.1145/3485447.3511943)
 - \[WWW 2022\] [TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters](https://arxiv.org/pdf/2201.06771.pdf)
 - \[ICDE 2022\] [Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision](https://arxiv.org/pdf/2203.14921.pdf)
 	* Code: [https://github.com/AdaCheng/Product_Taxonomy_Expansion](https://github.com/AdaCheng/Product_Taxonomy_Expansion)
+- \[Semantic Web 2022\] [Taxonomy enrichment with text and graph vector representations](https://arxiv.org/pdf/2201.08598.pdf)
+- \[NAACL 2022\] [TEAM: A multitask learning based Taxonomy Expansion approach for Attach and Merge](https://aclanthology.org/2022.findings-naacl.28.pdf)
+- \[IJCAI 2022\] [TaxoPrompt: A Prompt-based Generation Method with Taxonomic Context for Self-Supervised Taxonomy Expansion](https://www.ijcai.org/proceedings/2022/0615.pdf)
+
 
 ## Taxonomy Applications
 
@@ -194,6 +200,9 @@ A curated resource for taxonomy research
 - \[WWW 2022\] [Ontology-enhanced Prompt-tuning for Few-shot Learning](https://arxiv.org/pdf/2201.11332.pdf)
 
 
+### Guide Entity Translation
+
+- \[KDD 2022\] [TaxoTrans: Taxonomy-Guided Entity Translation](https://dl.acm.org/doi/abs/10.1145/3534678.3539188)
 
 ## Joint Taxonomy Construction and Application
 
