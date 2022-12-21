@@ -213,6 +213,6 @@ A curated resource for taxonomy research
 
 ## Misc
 
-- \[ACL 2022\] [CogTaskonomy: Cognitively Inspired Task Taxonomy Is Beneficial to Transfer Learning in NLP]()
+- \[ACL 2022\] [CogTaskonomy: Cognitively Inspired Task Taxonomy Is Beneficial to Transfer Learning in NLP](https://paperswithcode.com/paper/cogtaskonomy-cognitively-inspired-task)
 - \[ACL 2022\] [Better Language Model with Hypernym Class Prediction ](https://arxiv.org/pdf/2203.10692.pdf)
 	* Code: [https://github.com/richardbaihe/robustLM](https://github.com/richardbaihe/robustLM)
