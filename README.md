@@ -152,6 +152,7 @@ A curated resource for taxonomy research
 - \[Semantic Web 2022\] [Taxonomy enrichment with text and graph vector representations](https://arxiv.org/pdf/2201.08598.pdf)
 - \[NAACL 2022\] [TEAM: A multitask learning based Taxonomy Expansion approach for Attach and Merge](https://aclanthology.org/2022.findings-naacl.28.pdf)
 - \[IJCAI 2022\] [TaxoPrompt: A Prompt-based Generation Method with Taxonomic Context for Self-Supervised Taxonomy Expansion](https://www.ijcai.org/proceedings/2022/0615.pdf)
+- \[EMNLP 2022\] [Topic Taxonomy Expansion via Hierarchy-Aware Topic Phrase Generation](https://aclanthology.org/2022.findings-emnlp.122.pdf)
 
 
 ## Taxonomy Applications
