@@ -153,6 +153,7 @@ A curated resource for taxonomy research
 - \[NAACL 2022\] [TEAM: A multitask learning based Taxonomy Expansion approach for Attach and Merge](https://aclanthology.org/2022.findings-naacl.28.pdf)
 - \[IJCAI 2022\] [TaxoPrompt: A Prompt-based Generation Method with Taxonomic Context for Self-Supervised Taxonomy Expansion](https://www.ijcai.org/proceedings/2022/0615.pdf)
 - \[EMNLP 2022\] [Topic Taxonomy Expansion via Hierarchy-Aware Topic Phrase Generation](https://aclanthology.org/2022.findings-emnlp.122.pdf)
+- \[AAAI 2023\] [DNG: Taxonomy Expansion by Exploring the Intrinsic Directed Structure on Non-Gaussian Space](https://arxiv.org/pdf/2302.11165.pdf)
 
 
 ## Taxonomy Applications
