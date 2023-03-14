@@ -154,6 +154,8 @@ A curated resource for taxonomy research
 - \[IJCAI 2022\] [TaxoPrompt: A Prompt-based Generation Method with Taxonomic Context for Self-Supervised Taxonomy Expansion](https://www.ijcai.org/proceedings/2022/0615.pdf)
 - \[EMNLP 2022\] [Topic Taxonomy Expansion via Hierarchy-Aware Topic Phrase Generation](https://aclanthology.org/2022.findings-emnlp.122.pdf)
 - \[AAAI 2023\] [DNG: Taxonomy Expansion by Exploring the Intrinsic Directed Structure on Non-Gaussian Space](https://arxiv.org/pdf/2302.11165.pdf)
+- \[WWW 2023\] [A Single Vector Is Not Enough: Taxonomy Expansion via Box Embeddings](https://songjiang0909.github.io/pdf/boxtaxo.pdf)
+	* Code: [https://songjiang0909.github.io/](https://songjiang0909.github.io/)
 
 
 ## Taxonomy Applications
@@ -188,7 +190,7 @@ A curated resource for taxonomy research
 - \[CIKM 2019\] [STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/lp0249-gaoA.pdf)
 	* Code: [https://github.com/jygao97/STAR](https://github.com/jygao97/STAR)
 - \[ICDE 2022\] [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space (https://www.cs.emory.edu/~jyang71/files/taxorec.pdf)
-	* Code: [https://github.com/Melinda315/TaxoRec)
+	* Code: [https://github.com/Melinda315/TaxoRec](https://github.com/Melinda315/TaxoRec)
 
 ### Improve Information Extraction
 
