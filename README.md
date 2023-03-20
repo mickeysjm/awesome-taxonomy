@@ -156,9 +156,10 @@ A curated resource for taxonomy research
 - \[AAAI 2023\] [DNG: Taxonomy Expansion by Exploring the Intrinsic Directed Structure on Non-Gaussian Space](https://arxiv.org/pdf/2302.11165.pdf)
 - \[WWW 2023\] [A Single Vector Is Not Enough: Taxonomy Expansion via Box Embeddings](https://songjiang0909.github.io/pdf/boxtaxo.pdf)
 	* Code: [https://songjiang0909.github.io/](https://songjiang0909.github.io/)
+- \[WWW 2023\] [TaxoComplete: Self-Supervised Taxonomy Completion Leveraging Position-Enhanced Semantic Matching]
 
 
-## Taxonomy Applications
+## Taxonomy Applications]
 
 ### Help Text Understanding and Representation Learning
 
