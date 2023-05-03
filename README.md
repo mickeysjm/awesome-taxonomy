@@ -155,9 +155,10 @@ A curated resource for taxonomy research
 - \[EMNLP 2022\] [Topic Taxonomy Expansion via Hierarchy-Aware Topic Phrase Generation](https://aclanthology.org/2022.findings-emnlp.122.pdf)
 - \[AAAI 2023\] [DNG: Taxonomy Expansion by Exploring the Intrinsic Directed Structure on Non-Gaussian Space](https://arxiv.org/pdf/2302.11165.pdf)
 - \[WWW 2023\] [A Single Vector Is Not Enough: Taxonomy Expansion via Box Embeddings](https://songjiang0909.github.io/pdf/boxtaxo.pdf)
-	* Code: [https://songjiang0909.github.io/](https://songjiang0909.github.io/)
-- \[WWW 2023\] [TaxoComplete: Self-Supervised Taxonomy Completion Leveraging Position-Enhanced Semantic Matching]
-
+	* Code: [https://github.com/songjiang0909/BoxTaxo](https://github.com/songjiang0909/BoxTaxo)
+- \[WWW 2023\] [TaxoComplete: Self-Supervised Taxonomy Completion Leveraging Position-Enhanced Semantic Matching](https://dl.acm.org/doi/pdf/10.1145/3543507.3583342)
+	* Code: [https://github.com/eXascaleInfolab/TaxoComplete](https://github.com/eXascaleInfolab/TaxoComplete)
+- \[EACL 2023\] [Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model](https://aclanthology.org/2023.eacl-main.73.pdf)
 
 ## Taxonomy Applications]
 
