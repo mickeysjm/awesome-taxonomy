@@ -103,6 +103,11 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/IBM/gnn-taxo-construction](https://github.com/IBM/gnn-taxo-construction)
 - \[NAACL 2021\] [Constructing Taxonomies from Pretrained Language Models](https://www.aclweb.org/anthology/2021.naacl-main.373.pdf)
 	* Code: [https://github.com/cchen23/ctp](https://github.com/cchen23/ctp)
+- \[SEM 2022\] [Distilling Hypernymy Relations from Language Models: On the Effectiveness of Zero-Shot Taxonomy Induction](https://aclanthology.org/2022.starsem-1.13.pdf)
+	* Code: [https://github.com/devanshrj/zero-shot-taxonomy](https://github.com/devanshrj/zero-shot-taxonomy)
+- \[Arxiv 2024\] [Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples](https://arxiv.org/pdf/2402.07386.pdf)
+	* Code: [https://github.com/QingkaiZeng/Chain-of-Layer](https://github.com/QingkaiZeng/Chain-of-Layer)
+
 
 ## Topic Taxonomy Construction (Clustering-based Taxonomy)
 
@@ -159,8 +164,16 @@ A curated resource for taxonomy research
 - \[WWW 2023\] [TaxoComplete: Self-Supervised Taxonomy Completion Leveraging Position-Enhanced Semantic Matching](https://dl.acm.org/doi/pdf/10.1145/3543507.3583342)
 	* Code: [https://github.com/eXascaleInfolab/TaxoComplete](https://github.com/eXascaleInfolab/TaxoComplete)
 - \[EACL 2023\] [Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model](https://aclanthology.org/2023.eacl-main.73.pdf)
+  	* Code: [https://github.com/WENGSYX/ATTEMPT](https://github.com/WENGSYX/ATTEMPT)
+- \[EMNLP 2023\] [TacoPrompt: A Collaborative Multi-Task Prompt Learning Method for Self-Supervised Taxonomy Completion](https://aclanthology.org/2023.emnlp-main.979.pdf)
+  	* Code: [https://github.com/cyclexu/TacoPrompt](https://github.com/cyclexu/TacoPrompt)
+- \[MM 2023\] [Towards Visual Taxonomy Expansion](https://arxiv.org/pdf/2309.06105.pdf)
+   	* Code: [https://github.com/darthzhu/vte](https://github.com/darthzhu/vte)
+- \[WebConf 2024\] [Taxonomy Completion via Implicit Concept Insertion](https://ora.ox.ac.uk/objects/uuid:734f4f2c-e8de-4778-8902-6776b099b7b0/files/s6q182m86q)
+   	* Code: [https://github.com/jingcshi/ICON](https://github.com/jingcshi/ICON)
 
-## Taxonomy Applications]
+
+## Taxonomy Applications
 
 ### Help Text Understanding and Representation Learning
 
@@ -191,7 +204,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
 - \[CIKM 2019\] [STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/lp0249-gaoA.pdf)
 	* Code: [https://github.com/jygao97/STAR](https://github.com/jygao97/STAR)
-- \[ICDE 2022\] [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space (https://www.cs.emory.edu/~jyang71/files/taxorec.pdf)
+- \[ICDE 2022\] [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space](https://www.cs.emory.edu/~jyang71/files/taxorec.pdf)
 	* Code: [https://github.com/Melinda315/TaxoRec](https://github.com/Melinda315/TaxoRec)
 
 ### Improve Information Extraction
