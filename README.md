@@ -71,6 +71,9 @@ A curated resource for taxonomy research
 - \[ACL 2021 Findings\] [Hypernym Discovery via a Recurrent Mapping Model](https://aclanthology.org/2021.findings-acl.257.pdf)
 - \[ACL 2021 Findings\] [More than just Frequency? Demasking Unsupervised Hypernymy Prediction Method](https://arxiv.org/pdf/2106.00055.pdf)
 	* Code: [https://github.com/Thommy96/hyp-freq-comp](https://github.com/Thommy96/hyp-freq-comp)
+- \[\*SEM 2023\] [Seeking Clozure: Robust Hypernym Extraction from BERT with Anchored Prompts](https://aclanthology.org/2023.starsem-1.18.pdf)
+	* Code: [https://github.com/ChunhuaLiu596/AnchoredPrompts](https://github.com/ChunhuaLiu596/AnchoredPrompts)
+- \[EMNLP 2023\] [KEPL: Knowledge Enhanced Prompt Learning for Chinese Hypernym-Hyponym Extraction](https://aclanthology.org/2023.emnlp-main.358.pdf)
 
 
 ## Concept Taxonomy Construction (Instance-based Taxonomy)
@@ -171,6 +174,7 @@ A curated resource for taxonomy research
    	* Code: [https://github.com/darthzhu/vte](https://github.com/darthzhu/vte)
 - \[WebConf 2024\] [Taxonomy Completion via Implicit Concept Insertion](https://ora.ox.ac.uk/objects/uuid:734f4f2c-e8de-4778-8902-6776b099b7b0/files/s6q182m86q)
    	* Code: [https://github.com/jingcshi/ICON](https://github.com/jingcshi/ICON)
+   	* Talk: [https://www.youtube.com/watch?v=9otF15bvuBc](https://www.youtube.com/watch?v=9otF15bvuBc)
 
 
 ## Taxonomy Applications
@@ -182,6 +186,12 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/JunhengH/joie-kdd19](https://github.com/JunhengH/joie-kdd19)
 - \[AKBC 2021\] [Manifold Alignment across Geometric Spaces for Knowledge Base Representation Learning](https://openreview.net/pdf?id=TPymTKJR-Pi)
 	* Code: [https://github.com/HKUST-KnowComp/GeoAlign](https://github.com/HKUST-KnowComp/GeoAlign)
+
+### Help Information Retrieval
+
+- \[WebConf 2024\] [Improving Retrieval in Theme-specific Applications using a Corpus Topical Taxonomy](https://arxiv.org/pdf/2403.04160)
+	* Code: [https://github.com/SeongKu-Kang/ToTER_WWW24](https://github.com/SeongKu-Kang/ToTER_WWW24)
+	* Talk: [https://www.youtube.com/watch?v=Y7RU5GpgaEI](https://www.youtube.com/watch?v=Y7RU5GpgaEI)
 
 ### Help Network Embedding
 
@@ -217,6 +227,7 @@ A curated resource for taxonomy research
 - \[EMNLP 2021\] [ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision](https://aclanthology.org/2021.emnlp-main.424.pdf)
 	* Code: [https://github.com/xuanwang91/ChemNER](https://github.com/xuanwang91/ChemNER)
 - \[WWW 2022\] [Ontology-enhanced Prompt-tuning for Few-shot Learning](https://arxiv.org/pdf/2201.11332.pdf)
+- \[EMNLP 2023\] [Taxonomy Expansion for Named Entity Recognition](https://aclanthology.org/2023.emnlp-main.426.pdf)
 
 
 ### Guide Entity Translation
@@ -235,3 +246,5 @@ A curated resource for taxonomy research
 - \[ACL 2022\] [CogTaskonomy: Cognitively Inspired Task Taxonomy Is Beneficial to Transfer Learning in NLP](https://paperswithcode.com/paper/cogtaskonomy-cognitively-inspired-task)
 - \[ACL 2022\] [Better Language Model with Hypernym Class Prediction ](https://arxiv.org/pdf/2203.10692.pdf)
 	* Code: [https://github.com/richardbaihe/robustLM](https://github.com/richardbaihe/robustLM)
+- \[ACL 2023\] [ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain](https://aclanthology.org/2023.acl-long.662.pdf)
+	* Code: [https://github.com/mainlp/escoxlmr](https://github.com/mainlp/escoxlmr)
